@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reviews-App/static/css/main.7e2635bb.chunk.css",
+    "main.js": "/Reviews-App/static/js/main.a1921c07.chunk.js",
+    "main.js.map": "/Reviews-App/static/js/main.a1921c07.chunk.js.map",
+    "runtime-main.js": "/Reviews-App/static/js/runtime-main.76fbea38.js",
+    "runtime-main.js.map": "/Reviews-App/static/js/runtime-main.76fbea38.js.map",
+    "static/js/2.daa4dbf4.chunk.js": "/Reviews-App/static/js/2.daa4dbf4.chunk.js",
+    "static/js/2.daa4dbf4.chunk.js.map": "/Reviews-App/static/js/2.daa4dbf4.chunk.js.map",
+    "index.html": "/Reviews-App/index.html",
+    "static/css/main.7e2635bb.chunk.css.map": "/Reviews-App/static/css/main.7e2635bb.chunk.css.map",
+    "static/js/2.daa4dbf4.chunk.js.LICENSE.txt": "/Reviews-App/static/js/2.daa4dbf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76fbea38.js",
+    "static/js/2.daa4dbf4.chunk.js",
+    "static/css/main.7e2635bb.chunk.css",
+    "static/js/main.a1921c07.chunk.js"
+  ]
+}
